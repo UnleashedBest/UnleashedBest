@@ -12,7 +12,7 @@
 - 🧑🏻‍🤝‍🧑🏽 I’m looking to collaborate on the application of ML ideas on HealthCare and Clinical Research. 🌟
 - 🤔 I’m looking for help with Natural Language Procesing. 🦜
 - 💬 Ask me about anything you think I might be able to help with! 💡
-- 🥅 2022 goal: to publish some of my work on machine learning. 📃
+- 🥅 2023 goal: to publish some of my work on machine learning. 📃
 
 <br>
 <br>
@@ -21,7 +21,7 @@
 
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RigelAlgebar" alt="https://github.com/RigelAlgebar" />
+  <img src="https://komarev.com/ghpvc/?username=UnleashedBest" alt="https://github.com/UnleashedBest" />
 </p>
 
 ---
@@ -31,26 +31,43 @@
 
 
 <p align="center">
-<img src="https://img.shields.io/badge/%20-%23323330.svg?&style=for-the-badge&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-<img src="https://img.shields.io/badge/Fortran%20-%66ff00.svg?&style=for-the-badge&logo=F&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Julia%20-E4007C.svg?&style=for-the-badge&logo=F&logoColor=white"/> 
-<img src="https://img.shields.io/badge/python%20-00BFFF.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/wolfram%20-DD1100.svg?&style=for-the-badge&logo=wolfram&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/mongodb%20-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/mysql%20-005EFF.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/postgresql%20-%231572B6.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
   
 </p>
 
+<h1 align="center">Machine Learning.</h1>
+
+
+<p align="center">
+<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  
+</p>
+
+<h1 align="center">Operative Sistems.</h1>
+
+
+<p align="center">
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  
+</p>
 
 <br>
 <h1 align="center">Everything is data, including this profile.</h1>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=RigelAlgebar&show_icons=true&theme=gotham" alt="RigelAlgebar" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=UnleashedBest&show_icons=true&theme=maroongold" alt="UnleashedBest" />
 
 <!---
 <hr>
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=RigelAlgebar&count_private=true>
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=UnleashedBest&count_private=true>
 </hr>
 --->
