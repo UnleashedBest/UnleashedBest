@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/UnleashedBest/UnleashedBest/blob/master/media/images/960x0.jpg">
+  <img src="https://github.com/UnleashedBest/UnleashedBest/blob/main/media/images/960x0.jpg">
 </p>
 
 <h3 align="center">Hola Mundo y Bienvenido. My name is Miguel Angel. I am a Data Scientist and Quantum Chemist.</h3> 
