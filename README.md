@@ -6,8 +6,8 @@
 
 ---
 
-* 👨‍💻📄 Tech Resume: [Data Scientist CV](https://drive.google.com/file/d/1JfUJHPecBlt52lH3HGhr8k6rO7GTIdiZ/view?usp=sharing)
-* 🎓📄 Academic Resume: [Academic CV](https://drive.google.com/file/d/1NJ0cek2Ht7tlxvWMrgWaRrCIAyYAukwN/view?usp=sharing)
+* 👨‍💻📄 Tech Resume: [Data Scientist CV]()
+* 🎓📄 Academic Resume: [Academic CV]()
 - 🔭 I’m currently working on lots of cool projects using machine learning. 🤖
 - 🧑🏻‍🤝‍🧑🏽 I’m looking to collaborate on the application of ML ideas on HealthCare and Clinical Research. 🌟
 - 🤔 I’m looking for help with Natural Language Procesing. 🦜
