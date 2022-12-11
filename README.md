@@ -2,23 +2,22 @@
   <img src="https://github.com/UnleashedBest/UnleashedBest/blob/main/media/images/960x0.jpg">
 </p>
 
-<h3 align="center">Hola Mundo y Bienvenido. My name is Miguel Angel. I am a Data Scientist and Quantum Chemist.</h3> 
+<h3 align="center">Hola Mundo y Bienvenido. My name is Hernan Curuchet. I am a Data Scientist and Paramedic.</h3> 
 
 ---
 
 * 👨‍💻📄 Tech Resume: [Data Scientist CV](https://drive.google.com/file/d/1JfUJHPecBlt52lH3HGhr8k6rO7GTIdiZ/view?usp=sharing)
 * 🎓📄 Academic Resume: [Academic CV](https://drive.google.com/file/d/1NJ0cek2Ht7tlxvWMrgWaRrCIAyYAukwN/view?usp=sharing)
 - 🔭 I’m currently working on lots of cool projects using machine learning. 🤖
-- 🌱 I’m currently learning Quantum Computing and Quantum Information Theory. ⚛️🖥️
-- 🧑🏻‍🤝‍🧑🏽 I’m looking to collaborate on the application of ML ideas on chemistry and physics. 🌟
+- 🧑🏻‍🤝‍🧑🏽 I’m looking to collaborate on the application of ML ideas on HealthCare and Clinical Research. 🌟
 - 🤔 I’m looking for help with Natural Language Procesing. 🦜
 - 💬 Ask me about anything you think I might be able to help with! 💡
-- 🥅 2021 goal: to publish some of my work on machine learning. 📃
-- ⚡ Fun fact: I like acting and I have participated in a few short films. 🎭
+- 🥅 2022 goal: to publish some of my work on machine learning. 📃
 
 <br>
 <br>
-<p align="center"><a href="https://twitter.com/RigelAlgebar"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/ma-maganafuentes/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>   <a href="mailto:rigel.algebar@gmail.com?subject=Hello%20Miguel,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
+  <a href="https://twitter.com/Curuchet_Hernan"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/hernan-curuchet/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>   <a href="mailto:linvestigacion4@gmail.com?subject=Hello%20Miguel,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
 <p align="center">
